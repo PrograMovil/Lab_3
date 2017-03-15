@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">GestionAcademica</string>
+
+    <!-- Strings related to login -->
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Contraseña (opcional)</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Iniciar Sesion</string>
+    <string name="error_invalid_email">Correo electronico invalido</string>
+    <string name="error_invalid_password">La contraseña es muy corta</string>
+    <string name="error_incorrect_password">Contraseña incorrecta</string>
+    <string name="error_field_required">Debe llenar este campo</string>
+    <string name="permission_rationale">"Contacts permissions are needed for providing email
+        completions."
+    </string>
+</resources>
